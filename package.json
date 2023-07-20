@@ -1,0 +1,47 @@
+{
+  "name": "offices-viewer",
+  "version": "0.0.2",
+  "description": "",
+  "keywords": [
+    "pptx",
+    "offices",
+    "csv",
+    "docx",
+    "et",
+    "jpg",
+    "mp3",
+    "mp4",
+    "pdf",
+    "webm",
+    "wexbim",
+    "xlsx"
+  ],
+  "license": "ISC",
+  "author": "",
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "types": "dist/esm/index.d.ts",
+  "scripts": {
+    "build": "APP_ROOT=demos alita build",
+    "dev": "APP_ROOT=demos alita dev",
+    "father": "father build",
+    "format": "prettier --write .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "colz": "^0.1.0",
+    "jszip": "2.6.1",
+    "react-file-viewer": "^1.2.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.15",
+    "alita": "^3.3.3",
+    "father": "^4.2.3",
+    "prettier": "^2.6.2",
+    "prettier-plugin-organize-imports": "^2.3.4",
+    "prettier-plugin-packagejson": "^2.2.17"
+  },
+  "peerDependencies": {
+    "react": "*"
+  }
+}

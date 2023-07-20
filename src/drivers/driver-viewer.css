@@ -1,0 +1,16 @@
+.driver-message {
+  padding: 46px;
+  background: white;
+  margin: auto;
+  text-align: center;
+}
+
+.pg-driver-view {
+  margin: auto;
+  width: 100%;
+  height: 100%;
+
+  .loading {
+    position: relative;
+  }
+}

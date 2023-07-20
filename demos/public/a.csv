@@ -1,0 +1,17 @@
+Extension,MIMEType,Available
+cxv,-,`✓`
+doc,application/msword,`✓`
+docx,application/vnd.openxmlformats-officedocument.wordprocessingml.document,`✓`
+et,-,`✓`
+jpg,image/jpg,`✓`
+jpeg,image/jpeg,`✓`
+mp3,audio/mpeg,`✓`
+mp4,video/mp4,`✓`
+pdf,application/pdf,`✓`
+png,image/png,`✓`
+ppt,application/vnd.ms-powerpoint,`✓`
+pptx,applicatiapplication/vnd.openxmlformats-officedocument.presentationml.presentation,`✓`
+webm,video/webm,`✓`
+wexbim,text/plain,`✓`
+xls,application/vnd.ms-excel,`✓`
+xlsx,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,`✓`

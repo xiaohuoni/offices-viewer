@@ -1,0 +1,14 @@
+.normal {
+  font-family: Georgia, sans-serif;
+  margin-top: 4em;
+  text-align: center;
+}
+
+.description {
+  font-size: 35px;
+  margin: 18px 0 0;
+}
+
+.description code {
+  background: #f7f7f7;
+}
