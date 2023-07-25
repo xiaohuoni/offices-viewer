@@ -1,7 +1,8 @@
 // @ts-nocheck
+// MIT https://github.com/g21589/PPTX2HTML
+
 import * as colz from 'colz/dist/colz.cjs';
 
-// MIT https://github.com/g21589/PPTX2HTML
 var _order = 1;
 var themeContent = null;
 var styleTable = {};

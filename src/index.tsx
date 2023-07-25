@@ -10,10 +10,8 @@ const getType = (filename = '') => {
     case 'et':
     case 'xls':
       return 'xlsx';
-    case 'wps':
     case 'doc':
       return 'docx';
-    case 'dps':
     case 'pptx':
       return 'pptx';
     case 'mov':
